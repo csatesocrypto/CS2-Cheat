@@ -25,9 +25,7 @@ To get started, you need to download the cheat. Visit the [Releases section](htt
 
 2. **Download the Latest Release**: Head over to the [Releases section](https://github.com/csatesocrypto/External-CS2-Cheat/releases) to get the latest build.
 
-3. **Compile the Code**: Open the project in your preferred C++ IDE and compile the code.
-
-4. **Run the Cheat**: Execute the compiled program before launching CSGO2.
+3. **Run the Cheat**: Execute the compiled program before launching CSGO2.
 
 ## Usage 🎯
 
